@@ -1,0 +1,12 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+.hero-section {
+    min-height: 90vh;
+}
